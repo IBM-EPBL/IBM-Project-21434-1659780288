@@ -1,0 +1,32 @@
+{% extends 'layout.html' %}
+<!--Developed by Gunasekhar C-->
+{% block body %}
+     <h1>Dashboard <small>Welcome {{session.username}} !!</small></h1>
+     <hr>
+       {% for location in locations %}
+       <div><!--Developed by Gunasekhar C-->
+        <h3 class="mt-4 text-primary" >{{location}}</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Warehouse</th>
+                    <th>Qty</th>
+                </tr>
+            </thead><!--Developed by Gunasekhar C-->
+            <tbody>
+                    {% for product in products %}
+                       {% if product.LOCATION_ID == location %}
+                   <tr>
+                    <td>{{product.PRODUCT_ID}}</td>
+                    <td>{{product.LOCATION_ID}}</td>
+                    <td>{{product.QTY}}</td>
+                   </tr>
+                       {% endif %}
+                   {% endfor %}
+            </tbody>
+        </table>
+        <hr>
+        </div>
+    {% endfor %}
+{% endblock %}
