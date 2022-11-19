@@ -1,0 +1,28 @@
+{% extends 'layout.html' %}
+{% block body%}
+<style>
+footer {
+  text-align: center;
+  padding: 4px;
+  background-color: black;
+  color: white;
+}<!--Developed by Gunasekhar C-->
+    body {
+      background-image: url('https://ibmbucketims.s3.us.cloud-object-storage.appdomain.cloud/inventory-stock-manufacturing-assets-goods-concept.jpg');
+      background-repeat: no-repeat;
+	  background-attachment: fixed;  
+	    background-size: 100% 100%;
+	}
+</style><br><br>
+<fieldset style ="background-color: rgba(88,89,55,0.90);">
+   <center>  <h1 style="color:red;">Inventory Management System for Retailers</h1></center><br>
+    {% if session.logged_in == NULL %}
+        <center>
+        <a href="/login" class="btn btn-success btn-lg">Login</a></center>
+    {% endif %}<br>
+</fieldset>
+ <footer>
+<b><center><h5><a href="https://www.linkedin.com/in/gunasekhar-c/">Developed By: GUNASEKHAR C </a><a> and team</a></h5></center></b>
+</footer> 
+{% endblock %}
+<!--Developed by Gunasekhar C-->
