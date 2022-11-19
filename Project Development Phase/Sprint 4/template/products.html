@@ -1,0 +1,34 @@
+{% extends 'layout.html' %}
+<!--Developed by Gunasekhar C-->
+{% block body %}
+     <h1>Inventory Products</h1>
+     <a class="btn btn-success" href="/add_product">Add Product</a>
+     <hr>
+     <table class="table table-striped">
+         <thead>
+             <tr>
+                 <th>Product ID</th>
+                 <th>Product Cost</th>
+                 <th>Product Quantity</th>
+                 <th></th>
+                 <th></th>
+             </tr>
+         </thead><!--Developed by Gunasekhar C-->
+         <tbody>
+                 {% for product in products %}
+                <tr>
+                 <td>{{product.PRODUCT_ID}}</td>
+                 <td>{{product.PRODUCT_COST}}</td>
+                 <td>{{product.PRODUCT_NUM}}</td>
+                 <td><a href="edit_product/{{product.PRODUCT_ID}}" class="btn btn-primary pull-right">Edit</a></td>
+                 <td>
+                     <form action="{{url_for('delete_product', id=product.PRODUCT_ID)}}" method="POST">
+                        <input type="hidden" name="method" value="DELETE">
+                        <input type="submit" value="Delete" class="btn btn-danger">
+                     </form>
+                 </td>
+                </tr>
+                {% endfor %}
+         </tbody>
+     </table>
+{% endblock %}
