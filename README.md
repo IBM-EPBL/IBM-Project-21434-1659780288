@@ -19,12 +19,10 @@ In practice, effective retail inventory management results in lower costs and a 
 
 Once retailers successfully log in to the application they can update their inventory details, also users will be able to add new stock by submitting essential details related to the stock. They can view details of the current inventory. The System will automatically send an email alert to the retailers if there is no stock found in their accounts.  So that they can order new stock.
 </body>
-
 <h2>
-  <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.webp" type="image/webp">
+
+📫 How to reach Us <a href = "mailto: gunasekhar.c2002@gmail.com">Connect with Email</a> | <a href = "https://www.linkedin.com/in/gunasekhar-c/">Connect with LinkedIn</a>
 </picture> Contribution :</h2>
-📫 How to reach Us <a href = "mailto: gunasekhar.c2002@gmail.com">Connect with Email</a>|<a href = "https://www.linkedin.com/in/gunasekhar-c/">Connect with LinkedIn</a>
 ![](https://svgur.com/i/nQ2.svg)
 <div align="center">
  <h5>Jansons Institute of Technology,Coimbatore <br> Made with <picture>
