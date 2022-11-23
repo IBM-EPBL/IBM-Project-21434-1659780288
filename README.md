@@ -4,7 +4,7 @@
 
 # Inventory Managment System for Retailers
 # IBM-Project-21434-1659780288
-<div align="center"><h3> <a href = "http://159.122.175.187:31500">Click here to check our project Deployment</a></h3>  </div>
+<div align="center"><h3> <a href = "http://159.122.175.187:31500">Click here to check out project Deployment</a></h3>  </div>
 **Team Lead:** GUNASEKHAR C - 711119104026<br>
 **Team Member 1:** DHANU SHREE P - 711119104021<br>
 **Team Member 2:** HARI PRAKASH P - 711119104028<br>
