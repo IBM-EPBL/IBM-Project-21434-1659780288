@@ -22,7 +22,6 @@ Once retailers successfully log in to the application they can update their inve
 📫 How to reach Us <a href = "mailto: gunasekhar.c2002@gmail.com">Connect with Email</a> | <a href = "https://www.linkedin.com/in/gunasekhar-c/">Connect with LinkedIn</a>
 <h2>
 </picture> Contribution :</h2>
-![](https://svgur.com/i/nQ2.svg)
 <div align="center">
  <h5>Jansons Institute of Technology,Coimbatore <br> Made with <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
