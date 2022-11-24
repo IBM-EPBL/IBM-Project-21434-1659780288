@@ -1,22 +1,21 @@
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
 # Inventory Managment System for Retailers
-# IBM-Project-21434-1659780288
+# IBM-Project-21434-1659780288    |   TEAMID: PNT2022TMID42578
 <div align="center"><h3> <a href = "http://159.122.175.187:31500">Click here to check out project Deployment</a></h3>  </div>
-**Team Lead:** GUNASEKHAR C - 711119104026<br>
-**Team Member 1:** DHANU SHREE P - 711119104021<br>
-**Team Member 2:** HARI PRAKASH P - 711119104028<br>
-**Team Member 3:** JAGADISH V - 711119104031<br>
+<div align="center"><h3> <a href = "https://www.youtube.com/embed/JMHPR4Qs0QQ">Click here to check out Demo link</a></h3>  </div>
+<b>Team Lead:  GUNASEKHAR C - 711119104026<br>
+Team Member 1: DHANU SHREE P - 711119104021<br>
+Team Member 2: HARI PRAKASH P - 711119104028<br>
+Team Member 3: JAGADISH V - 711119104031<br></b><br>
 <body>
-Category: 
-  Cloud App Development
+<h3>Category: </h3>Cloud App Development
 <br>
- 
-Skills Required: 
+<h3>Skills Required: </h3>
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
-Project Description:
+<h3>Project Description:</h3>
   
 Retail inventory management is the process of ensuring you carry merchandise that shoppers want, with neither too little nor too much on hand. By managing inventory, retailers meet customer demand without running out of stock or carrying excess supply.
 
